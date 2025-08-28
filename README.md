@@ -1,6 +1,6 @@
 # Learning Calibraton by translating the Camera Calibration Toolbox for Matlab to Python
 
-Camera Calibration Toolbox for Matlab, preserved by Stanford [Link](https://robots.stanford.edu/cs223b04/JeanYvesCalib/htmls/links.html)
+Camera Calibration Toolbox for Matlab, preserved by Stanford [Link](https://robots.stanford.edu/cs223b04/JeanYvesCalib/)
 
 ### Some of this code is based on the original Matlab code by Jean-Yves Bouguet
 
